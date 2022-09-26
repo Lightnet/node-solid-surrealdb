@@ -1,0 +1,20 @@
+{
+  "name": "solid-surrealdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dev.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node dev.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/standalone": "^7.19.2",
+    "babel-preset-solid": "^1.5.6",
+    "node-fetch": "^3.2.10",
+    "solid-js": "^1.5.6",
+    "surrealdb.js": "^0.5.0"
+  }
+}
